@@ -30,12 +30,38 @@
                 <table class="table align-items-center table-flush">
                     <thead class="thead-light">
                         <tr>
+                            <th scope="col">Dia         </th>
                             <th scope="col">Tarea</th>
                             <th scope="col">Tiempo para realizar</th>
-                            <th scope="col">Opciones</th>
+                                            
+                        
                         </tr>
-                    </thead>
-                    <tbody>
 
+
+                        
+                    </thead>
+
+
+                    <tbody>
+                        <tr>
+                            <th scope="row">
+                                Martess
+
+                            </th>
+                            <td>
+                                Hacer comida para los huelgueros 
+                            </td>
+
+                            <td>
+                                <a href="" class="btn btn-sm btm-primary"> Editar</a>
+                                <a href="" class="btn btn-sm btm-primary"> Eliminar</a>
+                            </td>
+
+
+                        </tr>
+
+                        
+                    </tbody>
+                   
 
 @endsection
