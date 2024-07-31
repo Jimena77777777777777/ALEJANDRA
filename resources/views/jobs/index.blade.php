@@ -10,7 +10,7 @@
 
                 
                 <div class="col text-right">
-                    <a href="{{ url('trabajos/create') }}" class="btn btn-sm btn-primary">Nueva tarea o trabajo </a>
+                    <a href="{{ url('trabajos/create') }}" class="btn btn-sm btn-primary">Crear nueva tarea</a>
                 </div>
             </div>
         </div>
